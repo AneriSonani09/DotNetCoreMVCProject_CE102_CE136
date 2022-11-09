@@ -4,8 +4,6 @@ purpose of the project is to make a full functional online book store system tha
 purchase a book online based on category, author and subject. The selected books will be displayed in
 tabular form and then user can pick and order one or more books online.
 
-<img src="image.png" >
-
 ### Features
 
   1) Authentication
