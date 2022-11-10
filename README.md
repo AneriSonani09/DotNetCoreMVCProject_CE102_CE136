@@ -8,8 +8,10 @@ tabular form and then user can pick and order one or more books online.
 
   1) Authentication
   2) Search by book Name, Author Name
-  3) User can Edit/Delete details
-  4) Add to Cart
+  3) Search and filter by price
+  4) User can Edit/Delete details
+  5) Book Details
+  6) Add to Cart
 
 ### Created By:-
 1) [Priyanshu Patel (CE102)](https://github.com/priyanshu1044)
